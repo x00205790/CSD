@@ -1,2 +1,1 @@
-# bmi2023lab
-BMI lab
+![example workflow](https://github.com/gclynch/bmi2022/actions/workflows/bmi_ci.yml/badge.svg)
